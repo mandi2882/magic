@@ -1,1 +1,1 @@
-# magic
+npx make-magic
